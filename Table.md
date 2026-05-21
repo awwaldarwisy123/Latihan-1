@@ -1,4 +1,4 @@
-Table Header-1 | Table Header-2 | Table Header-3
+# Table Header-1 | Table Header-2 | Table Header-3
 :--- | :---: | _-:
 
 Table Data-1 | Table Data-2 | Table Data-3
