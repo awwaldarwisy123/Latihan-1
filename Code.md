@@ -1,6 +1,6 @@
 inline code-'int i=0
 block code-
-'''C
+'''c
 for(int i=0;i<10;i++){
 printtf("Hallow World!\n");
 }
